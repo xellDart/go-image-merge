@@ -1,7 +1,7 @@
 package main
 
 import (
-	gim "github.com/ozankasikci/go-image-merge"
+	gim "github.com/xellDart/go-image-merge"
 	"image/color"
 	"image/jpeg"
 	"log"
