@@ -1,3 +1,3 @@
-module github.com/ozankasikci/go-image-merge
+module github.com/xellDart/go-image-merge
 
-go 1.13
+go 1.16
